@@ -10,7 +10,7 @@ namespace DEMOLAB6
     {
         static void Main(string[] args)
         {
-            abcdjsadsa
+            abcdjs
         }
     }
 }
